@@ -4,7 +4,7 @@
 A student with a deep interest in creating engaging and functional interfaces. I have a passion for programming and always strive to deliver an optimal user experience in every project I work on.
 I actively develop various projects, including using Laravel and Tailwind CSS, to build responsive and aesthetic interfaces.
 
-- 🔭 I’m currently working on @dicodingacademy
+- 🔭 I’m currently studying on @dicodingacademy
 - 🌱 I'm currently learning about NextJS and Machine Learning
 - 💬 Ask me about football manager
 - ⚡ Fun fact: im so in love to play football manager
