@@ -6,7 +6,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 
 - 🔭 I’m currently studying on @dicodingacademy
 - 🌱 I'm currently learning about NextJS and Machine Learning
-- 💬 Ask me about manchester united
+- 💬 Ask me about Manchester United
 - ⚡ Fun fact: im so in love to play football manager
 - 📫 How to reach me : aldidybalaaa@gmail.com
 
