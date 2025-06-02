@@ -41,6 +41,12 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-aldi-rohmatulloh-86538634a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skrtaldi/)
 
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alvinaaulia&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 
 
 
